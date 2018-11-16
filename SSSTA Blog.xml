@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>SSSTA Blog created by Ciaran chen in Inoreader [https://www.inoreader.com]</title>
+    <title>SSSTA Blogs</title>
   </head>
   <body>
-    <outline text="SSSTA Blog" title="SSSTA Blog">
-      <outline text="Stereo's Blog" title="Stereo's Blog" type="rss" xmlUrl="https://saberstereo.github.io/atom.xml" htmlUrl="http://saberstereo.github.io/"/>
-      <outline text="PaperStation" title="PaperStation" type="rss" xmlUrl="https://onesaber.github.io/PaperStation/atom.xml" htmlUrl="https://onesaber.github.io/PaperStation//PaperStation/"/>
-      <outline text="Ciaran's Gondolin" title="Ciaran's Gondolin" type="rss" xmlUrl="https://blog.ciaran.cn/atom.xml" htmlUrl="http://blog.ciaran.cn/"/>
-      <outline text="博客园_Finley" title="博客园_Finley" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/259003/rss" htmlUrl="http://feed.cnblogs.com/blog/u/259003/rss"/>
-      <outline text="Review" title="Review" type="rss" xmlUrl="https://www.yichya.review/feed.xml" htmlUrl="https://www.yichya.review/"/>
-      <outline text="大炮's Blog" title="大炮's Blog" type="rss" xmlUrl="https://blog.dapaostudio.com/atom.xml" htmlUrl="http://yoursite.com/"/>
+    <outline text="SSSTA Blogs" title="SSSTA Blogs">
+      <!-- 请遵照下例补充你的订阅地址 -->
+      <!-- outline text="blog-title" title="blog-title" type="rss" xmlUrl="rss-url" htmlUrl="blog-url" /-->
+      <outline text="Stereo's Blog" title="Stereo's Blog" type="rss" xmlUrl="https://saberstereo.github.io/atom.xml" htmlUrl="http://saberstereo.github.io/" />
+      <outline text="PaperStation" title="PaperStation" type="rss" xmlUrl="https://onesaber.github.io/PaperStation/atom.xml" htmlUrl="https://onesaber.github.io/PaperStation//PaperStation/" />
+      <outline text="Ciaran's Gondolin" title="Ciaran's Gondolin" type="rss" xmlUrl="https://blog.ciaran.cn/atom.xml" htmlUrl="http://blog.ciaran.cn/" />
+      <outline text="博客园_Finley" title="博客园_Finley" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/259003/rss" htmlUrl="http://feed.cnblogs.com/blog/u/259003/rss" />
+      <outline text="Review" title="Review" type="rss" xmlUrl="https://www.yichya.review/feed.xml" htmlUrl="https://www.yichya.review/" />
+      <outline text="大炮's Blog" title="大炮's Blog" type="rss" xmlUrl="https://blog.dapaostudio.com/atom.xml" htmlUrl="http://yoursite.com/" />
+      <outline text="Temporary House" title="Temporary House" type="rss" xmlUrl="https://blog.xupu.name/atom.xml" htmlUrl="https://blog.xupu.name/" />
     </outline>
   </body>
 </opml>
