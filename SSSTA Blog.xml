@@ -15,7 +15,7 @@
       <outline text="大炮's Blog" title="大炮's Blog" type="rss" xmlUrl="https://blog.dapaostudio.com/atom.xml" htmlUrl="https://blog.dapaostudio.com/" />
       <outline text="Temporary House" title="Temporary House" type="rss" xmlUrl="https://blog.xupu.name/atom.xml" htmlUrl="https://blog.xupu.name/" />
       <outline text="BBChan's Blog" title="BBChan's Blog" type="rss" xmlUrl="http://www.bbbbchan.com/feed/atom/" htmlUrl="http://www.bbbbchan.com/" />
-      <outline text="KeybrL's Blog" title="KeybrL's Blog" type="rss" xmlUrl="https://blog.keybrl.com/feed.xml" htmlUrl="https://blog.keybr.com/" />
+      <outline text="KeybrL's Blog" title="KeybrL's Blog" type="rss" xmlUrl="https://blog.keybrl.com/feed.xml" htmlUrl="https://blog.keybrl.com/" />
     </outline>
   </body>
 </opml>
