@@ -25,4 +25,4 @@
 - Ciaran Chen: [Ciaran's Gondolin - 磐石之城、隐秘之地、守卫之塔、盛开在平原上的鲜花](https://blog.ciaran.cn/)
 - BBChan: [Something Interesting](http://www.bbbbchan.com/)
 - Hsu Pu: [Temporary House - 求仁得仁，复无怨怼](https://blog.xupu.name/)
-
+- KeybrL: [KeybrL's Blog](https://blog.keybrl.com/)
