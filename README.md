@@ -26,3 +26,4 @@
 - BBChan: [Something Interesting](http://www.bbbbchan.com/)
 - Hsu Pu: [Temporary House - 求仁得仁，复无怨怼](https://blog.xupu.name/)
 - KeybrL: [KeybrL's Blog](https://blog.keybrl.com/)
+- Xindu233: [心渡的小黑屋](https://blog.xindu233.com/)
