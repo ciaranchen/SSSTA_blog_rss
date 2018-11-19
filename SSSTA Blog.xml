@@ -16,6 +16,7 @@
       <outline text="Temporary House" title="Temporary House" type="rss" xmlUrl="https://blog.xupu.name/atom.xml" htmlUrl="https://blog.xupu.name/" />
       <outline text="BBChan's Blog" title="BBChan's Blog" type="rss" xmlUrl="http://www.bbbbchan.com/feed/atom/" htmlUrl="http://www.bbbbchan.com/" />
       <outline text="KeybrL's Blog" title="KeybrL's Blog" type="rss" xmlUrl="https://blog.keybrl.com/feed.xml" htmlUrl="https://blog.keybrl.com/" />
+      <outline text="心渡的小黑屋" title="心渡的小黑屋" type="rss" xmlUrl="http://blog.xindu233.com/feed.xml" htmlUrl="http://blog.xindu233.com/" />
     </outline>
   </body>
 </opml>
